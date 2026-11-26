@@ -1,9 +1,4 @@
-<!--
-  README de profil GitHub — version 2
-  1) Remplace Kouakouy par ton pseudo GitHub (Ctrl+H)
-  2) Complète les liens de contact
-  3) Renomme ce fichier en README.md dans le dépôt Kouakouy/Kouakouy
--->
+
 
 <div align="center">
 
@@ -23,8 +18,8 @@
 
 <a href="https://TON-SITE.com"><img src="https://img.shields.io/badge/Portfolio-0D47A1?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:ton.email@exemple.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://wa.me/225XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="mailto:kouakouy898@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://wa.me/2250713099479"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <img src="https://komarev.com/ghpvc/?username=Kouakouy&label=Vues&color=7048E8&style=flat-square" alt="vues"/>
 
 </div>
@@ -67,7 +62,7 @@ réponse:   Rapide ⚡
 <tr>
 <td align="center" width="33%">
 
-### 🌐 Web
+### Web
 Sites, SaaS, e-commerce, PWA, tableaux de bord
 
 <sub>React · Next.js · Laravel</sub>
@@ -75,7 +70,7 @@ Sites, SaaS, e-commerce, PWA, tableaux de bord
 </td>
 <td align="center" width="33%">
 
-### 📱 Mobile
+### Mobile
 Applications iOS & Android performantes
 
 <sub>Flutter · React Native · Expo</sub>
@@ -83,7 +78,7 @@ Applications iOS & Android performantes
 </td>
 <td align="center" width="33%">
 
-### ⚙️ Backend & API
+### Backend & API
 API REST, authentification, intégrations de services
 
 <sub>Node.js · Express · Laravel</sub>
@@ -159,7 +154,7 @@ API REST, authentification, intégrations de services
 
 <br/>
 
-## 🧭 Ma façon de travailler
+## Ma façon de travailler
 
 <table>
 <tr>
@@ -225,8 +220,8 @@ Un projet web ou mobile en tête ? Parlons-en.
 
 <br/>
 
-<a href="mailto:ton.email@exemple.com"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20M'%C3%A9crire-0D47A1?style=for-the-badge" alt="écrire"/></a>
-<a href="https://wa.me/225XXXXXXXXXX"><img src="https://img.shields.io/badge/%F0%9F%92%AC%20WhatsApp-25D366?style=for-the-badge" alt="whatsapp"/></a>
+<a href="mailto:kouakouy898@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20M'%C3%A9crire-0D47A1?style=for-the-badge" alt="écrire"/></a>
+<a href="https://wa.me/2250713099479"><img src="https://img.shields.io/badge/%F0%9F%92%AC%20WhatsApp-25D366?style=for-the-badge" alt="whatsapp"/></a>
 <a href="https://www.linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-0A66C2?style=for-the-badge" alt="linkedin"/></a>
 
 </div>
