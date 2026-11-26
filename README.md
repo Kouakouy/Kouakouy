@@ -1,16 +1,16 @@
 <!--
   README de profil GitHub — version 2
-  1) Remplace USERNAME par ton pseudo GitHub (Ctrl+H)
+  1) Remplace Kouakouy par ton pseudo GitHub (Ctrl+H)
   2) Complète les liens de contact
-  3) Renomme ce fichier en README.md dans le dépôt USERNAME/USERNAME
+  3) Renomme ce fichier en README.md dans le dépôt Kouakouy/Kouakouy
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:7048E8&height=260&section=header&text=Kouakou%20Yannick%20Esp%C3%A9rance&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Fullstack%20Web%20%26%20Mobile%20Developer&descSize=22&descAlignY=58" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:7048E8&height=260&section=header&text=Kouakou%20Yannick%20Esp%C3%A9rance&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Fullstack%20Web%20et%20Mobile%20Developer&descSize=22&descAlignY=58" width="100%" alt="header"/>
 
-<a href="https://github.com/USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1100&color=7C9CFF&center=true&vCenter=true&width=820&height=45&lines=Je+con%C3%A7ois+des+applications+web+%26+mobile+sur+mesure;De+l'id%C3%A9e+au+produit+final+%E2%80%94+cadrage%2C+code%2C+d%C3%A9ploiement;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Laravel+%C2%B7+Flutter;Fintech+%26+SaaS+%C2%B7+Disponible+en+freelance+%26+remote" alt="typing"/>
+<a href="https://github.com/Kouakouy">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1100&color=7C9CFF&center=true&vCenter=true&width=820&height=45&lines=Je+con%C3%A7ois+des+applications+web+et+mobile+sur+mesure;De+l%E2%80%99id%C3%A9e+au+produit+final+%E2%80%94+cadrage%2C+code%2C+d%C3%A9ploiement;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Laravel+%C2%B7+Flutter;Fintech+et+SaaS+%C2%B7+Disponible+en+freelance+et+remote" alt="typing"/>
 </a>
 
 <br/><br/>
@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:ton.email@exemple.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://wa.me/225XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Vues&color=7048E8&style=flat-square" alt="vues"/>
+<img src="https://komarev.com/ghpvc/?username=Kouakouy&label=Vues&color=7048E8&style=flat-square" alt="vues"/>
 
 </div>
 
@@ -162,14 +162,14 @@ API REST, authentification, intégrations de services
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="langages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kouakouy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kouakouy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="langages"/>
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=Kouakouy&theme=tokyonight&hide_border=true" alt="streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="trophées"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kouakouy&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="trophées"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="activité"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kouakouy&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="activité"/>
 
 </div>
 
@@ -179,9 +179,9 @@ API REST, authentification, intégrations de services
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kouakouy/Kouakouy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kouakouy/Kouakouy/output/github-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Kouakouy/Kouakouy/output/github-snake.svg" />
   </picture>
 </div>
 
